@@ -1,6 +1,6 @@
 # LUX-Week1-Assignment
 Week 1 of 8 week data analysis bootcamp by Lux-tech Academy.
-The dataset was obtained from [!https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners](kaggle)
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners).
 
 ## Objectives
 * Find all records where the weather was exactly clear.
